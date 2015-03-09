@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "matt.konstantinou@gmail.com",
+    "longName": "Workout Helper",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/jumpingjacks_2.png",
+                "name": "JUMPINGJACKS_2",
+                "type": "png"
+            },
+            {
+                "file": "images/jumpingjacks_1.png",
+                "name": "JUMPINGJACKS_1",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Workout Helper",
+    "uuid": "1f77fa80-4b65-418b-9b0b-5d9dd570bb23",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
